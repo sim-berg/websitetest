@@ -1,0 +1,45 @@
+{
+	"folders": [
+		{
+			"path": "..\\3jsstarter"
+		},
+		{
+			"path": "..\\new3jsStarter"
+		},
+		{
+			"path": "..\\LearningwithBruno"
+		},
+		{
+			"path": "..\\..\\Brunocourse\\04-webpack"
+		},
+		{
+			"path": "..\\..\\Brunocourse\\05-transform-objects"
+		},
+		{
+			"path": "..\\..\\Brunocourse\\06-animations"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\webpackmum"
+		},
+		{
+			"path": "..\\wretched-stars"
+		},
+		{
+			"path": "..\\..\\Brunocourse\\07-cameras"
+		},
+		{
+			"path": "..\\starcluster"
+		},
+		{
+			"path": "..\\Solarpunk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Solarpunk",
+		"workbench.sideBar.location": "right",
+		"editor.fontLigatures": false
+	}
+}
